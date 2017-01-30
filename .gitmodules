@@ -1,0 +1,3 @@
+[submodule "lib/vanessa-runner"]
+	path = lib/vanessa-runner
+	url = https://github.com/agrudtsin/vanessa-runner.git
