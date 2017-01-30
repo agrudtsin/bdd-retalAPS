@@ -4,3 +4,6 @@
 [submodule "lib/vanessa-behavior"]
 	path = lib/vanessa-behavior
 	url = https://github.com/silverbulleters/vanessa-behavior.git
+[submodule "lib/vanessa-stack-commons"]
+	path = lib/vanessa-stack-commons
+	url = https://github.com/silverbulleters/vanessa-stack-commons.git
